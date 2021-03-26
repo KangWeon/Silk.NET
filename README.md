@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"><img align="center" src="documentation/readme/wordmark480.png" height="96"></a>
+    <a href="#"><img align="center" src="documentation/readme/wordmark480.png" height="96" width="384"></a>
     <br />
 </h1>
 <div align="center">
